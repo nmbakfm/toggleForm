@@ -32,7 +32,7 @@ $(function(){
 ## Options
 
 |field||
-|:--:|:--:|
+|:--:|:---|
 |value|if a value of `<input>` is this `value` show `targetSelector` element. required except for the case using `checked` or `unchecked` as `operator`|
 |operator|'=', '!=', '>', '>=', '<', '<=', 'checked', 'unchecked' are available. '=' is default value|
 |targetSelector|selector of HTML element that will change display|
