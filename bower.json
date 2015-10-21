@@ -1,15 +1,36 @@
 {
   "name": "toggleForm",
   "version": "1.0.0",
-  "main": "toggleForm.min.js",
+  "main": "toggle elements by input value",
   "ignore": [
-      "package.json",
-      "node_modules/**",
-      "coffee/**",
-      "Gruntfile.js",
-      "README.md"
+    "package.json",
+    "node_modules/**",
+    "coffee/**",
+    "Gruntfile.js",
+    "README.md",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ],
   "dependencies": {
-    "jquery": "latest"
-  }
+    "jquery": "*"
+  },
+  "homepage": "https://github.com/nmbakfm/toggleForm",
+  "authors": [
+    "nmbakfm"
+  ],
+  "description": "",
+  "moduleType": [],
+  "keywords": [
+    "toggle",
+    "form",
+    "element",
+    "checkbox",
+    "input",
+    "value",
+    "text"
+  ],
+  "license": "MIT"
 }
