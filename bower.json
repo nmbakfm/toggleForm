@@ -1,0 +1,15 @@
+{
+  "name": "toggleForm",
+  "version": "1.0.0",
+  "main": "toggleForm.min.js",
+  "ignore": [
+      "package.json",
+      "node_modules/**",
+      "coffee/**",
+      "Gruntfile.js",
+      "README.md"
+  ],
+  "dependencies": {
+    "jquery": "latest"
+  }
+}
